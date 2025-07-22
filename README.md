@@ -12,6 +12,5 @@ I am a Systems Engineering student with hands-on experience in full-stack develo
 
 ## 📫 Contact Me
 - Email: mateovelazco12@gmail.com  
-- LinkedIn: [linkedin.com/in/mateovelazco](https://linkedin.com/in/mateovelazco)
 
 
